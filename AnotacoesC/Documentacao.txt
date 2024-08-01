@@ -13,3 +13,5 @@ estudando Switch-case:
 é como se fosse uma sequencia de "if"
 somente para comparações 
 serve para fazer validações no programa 
+
+Teste
